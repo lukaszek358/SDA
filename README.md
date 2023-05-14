@@ -1,0 +1,2 @@
+# SDA
+projekt_koncowy
